@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\utils\\structs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:utils\\structs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\utils\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:utils\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\utils\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:utils\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\scenes\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:scenes\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,18 +51,6 @@
       "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:scenes\\tutorialscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\utils\\structs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:utils\\structs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\utils\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:utils\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\utils\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:utils\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|c:\\users\\admin\\source\\repos\\actionomok\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16C9A0D3-6EB2-4C8E-9A5E-E8F207413970}|ActionGO.csproj|solutionrelative:scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,13 +82,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "BattleScene.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Scenes\\BattleScene.cs",
               "RelativeDocumentMoniker": "Scenes\\BattleScene.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Scenes\\BattleScene.cs",
               "RelativeToolTip": "Scenes\\BattleScene.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T00:02:56.945Z",
               "EditorCaption": ""
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Mob.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Mob.cs",
               "RelativeDocumentMoniker": "Mob.cs",
@@ -115,12 +115,11 @@
               "RelativeToolTip": "Mob.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T04:00:31.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T04:00:31.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Structs.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Utils\\Structs.cs",
               "RelativeDocumentMoniker": "Utils\\Structs.cs",
@@ -144,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "TutorialScene.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Scenes\\TutorialScene.cs",
               "RelativeDocumentMoniker": "Scenes\\TutorialScene.cs",
@@ -152,12 +151,11 @@
               "RelativeToolTip": "Scenes\\TutorialScene.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAswC0AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T07:25:19.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T07:25:19.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "ArrayUtils.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Utils\\ArrayUtils.cs",
               "RelativeDocumentMoniker": "Utils\\ArrayUtils.cs",
@@ -190,12 +188,11 @@
               "RelativeToolTip": "Scenes\\Scene.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T03:59:38.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T03:59:38.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Utils\\Enums.cs",
               "RelativeDocumentMoniker": "Utils\\Enums.cs",
@@ -208,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -216,12 +213,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T02:37:19.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T02:37:19.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ResultScene.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Scenes\\ResultScene.cs",
               "RelativeDocumentMoniker": "Scenes\\ResultScene.cs",
@@ -229,25 +225,24 @@
               "RelativeToolTip": "Scenes\\ResultScene.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T02:42:16.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T02:42:16.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainScene.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Scenes\\MainScene.cs",
               "RelativeDocumentMoniker": "Scenes\\MainScene.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Scenes\\MainScene.cs",
               "RelativeToolTip": "Scenes\\MainScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgBAAA8AAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAtwD0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T02:42:10.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "TitleScene.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Scenes\\TitleScene.cs",
               "RelativeDocumentMoniker": "Scenes\\TitleScene.cs",
@@ -255,12 +250,11 @@
               "RelativeToolTip": "Scenes\\TitleScene.cs",
               "ViewState": "AQIAAFYAAAAAAAAAAAAAAGgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T02:42:02.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T02:42:02.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Map.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\Map.cs",
               "RelativeDocumentMoniker": "Map.cs",
@@ -268,18 +262,17 @@
               "RelativeToolTip": "Map.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAowCoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T02:14:37.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T02:14:37.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\GameManager.cs",
               "RelativeDocumentMoniker": "GameManager.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\GameManager.cs",
               "RelativeToolTip": "GameManager.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAIwB0AAAAbAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAywB0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T02:03:55.625Z",
               "EditorCaption": ""
