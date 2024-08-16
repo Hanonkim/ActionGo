@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionOmok.csproj": {}
+    "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionGO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionOmok.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionGO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionOmok.csproj",
-        "projectName": "ActionOmok",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionOmok.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionGO.csproj",
+        "projectName": "ActionGO",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionGO.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\obj\\",
         "projectStyle": "PackageReference",

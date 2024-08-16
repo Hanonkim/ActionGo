@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ActionOmok")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ActionGO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eae52d671823260c449984f81b2278cdbe77cffb")]
-[assembly: System.Reflection.AssemblyProductAttribute("ActionOmok")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ActionOmok")]
+[assembly: System.Reflection.AssemblyProductAttribute("ActionGO")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ActionGO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

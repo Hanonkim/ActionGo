@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QiXtI8wB780=",
+  "dgSpecHash": "msj0mTM0oqI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionOmok.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\ActionOmok\\ActionGO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\simplexnoise\\2.0.0\\simplexnoise.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

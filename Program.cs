@@ -1,10 +1,11 @@
-﻿namespace ActionOmok
+﻿namespace ActionGo
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            GameManager gameManager = GameManager.GetInstance();
+            gameManager.Run();
         }
     }
 }
